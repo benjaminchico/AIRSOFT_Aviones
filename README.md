@@ -1,2 +1,2 @@
 # AIRSOFT_Aviones
-Pagina informativa y sobre ventas de Aviones dirigida a fans y compradores
+Esta página ofrece información y venta de aviones para aficionados y compradores
